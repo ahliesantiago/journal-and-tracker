@@ -1,15 +1,10 @@
-<template>
-  <div class="about">
-    <h1>This is an about page</h1>
-  </div>
-</template>
+<script setup lang="ts">
 
-<style>
-@media (min-width: 1024px) {
-  .about {
-    min-height: 100vh;
-    display: flex;
-    align-items: center;
-  }
-}
-</style>
+</script>
+
+<template>
+  This app allows you as the user to keep track of their day's highlights -- write
+  your journal entries whenever you feel like it, track your habits, routines (in a
+  time-blocked manner), mood, weight, and other metrics as they become
+  relevant to you.
+</template>

@@ -1,9 +1,10 @@
 <script setup lang="ts">
-import TheWelcome from '../components/TheWelcome.vue'
+import Calendar from '../components/home/Calendar.vue'
 </script>
 
 <template>
   <main>
-    <TheWelcome />
+    This will contain your dashboard.
+    <Calendar />
   </main>
 </template>
