@@ -1,12 +1,12 @@
 <script setup lang="ts">
-import NavigationBar from './components/NavigationBar.vue'
+import MainPages from './components/MainPages.vue'
 </script>
 
 <template>
   <header>
     <div>
       <nav>
-        <NavigationBar />
+        <MainPages />
       </nav>
     </div>
   </header>

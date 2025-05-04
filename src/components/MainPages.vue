@@ -4,8 +4,10 @@ import { RouterLink, RouterView } from 'vue-router'
 
 <template>
   <header>
-    <nav class="flex space-between">
+    <nav class="text-blue-400 flex justify-around">
       <RouterLink to="/">Home</RouterLink>
+      <div>Dashboard</div>
+      <div>Today</div>
       <RouterLink to="/about">About</RouterLink>
     </nav>
   </header>

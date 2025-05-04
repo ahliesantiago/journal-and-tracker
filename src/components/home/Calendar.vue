@@ -3,5 +3,5 @@
 </script>
 
 <template>
-  Calendar test
+  This will hold the calendar.
 </template>
